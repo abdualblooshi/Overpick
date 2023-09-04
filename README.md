@@ -8,6 +8,8 @@
 - **Hotkey Selection**: After selecting a hero from the dropdown, press 'M' in-game to quickly choose that hero.
 - **Stop Selection**: A feature to stop the "M" hotkey functionality when not needed.
 
+### [Sometimes it won't work with full screen, so run it as administrator and this currently only works on 1920x1080]
+
 ## Installation:
 
 1. Ensure you have the required libraries installed:
