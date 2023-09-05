@@ -20,7 +20,7 @@ When you press M it would do some keystrokes to pick a hero, it's open source yo
 
 ## Installation:
 
-# *You need Python 3 installed!*
+# [*You need Python 3 installed!*](https://www.python.org/downloads/release/python-3115/)
 
 1. Ensure you have the required libraries installed:
 
