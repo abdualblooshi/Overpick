@@ -2,6 +2,8 @@
 
 **Overpick** is a GUI-based application that assists players in selecting heroes in the game Overwatch. By choosing a hero from the dropdown in the Overpick window and pressing 'M' in-game, the hero is automatically selected, saving the user time and effort.
 
+[Download here](https://github.com/abdualblooshi/Overpick/releases/tag/v1.0.0)
+
 ## Features:
 
 - **Category-based Hero Selection**: Choose heroes based on their categories (e.g., Support, DPS, Tank).
