@@ -2,9 +2,14 @@
 
 **Overpick** is a GUI-based application that assists players in selecting heroes in the game Overwatch. By choosing a hero from the dropdown in the Overpick window and pressing 'M' in-game, the hero is automatically selected, saving the user time and effort, I understand the code might be buggy but this is just a mini-project a solution to a simple problem that not everyone might be facing.
 
+![image](https://github.com/abdualblooshi/Overpick/assets/34681035/15c20cd5-00a0-4e8f-8723-1d4adef6b4d6)
+
+
 ## Usage:
 Basically just pick a category from the script, then pick a hero.
 When you press M it would do some keystrokes to pick a hero, it's open source you can look at the code yourself if you wanna get more into understanding how it works 😊.
+
+To stop the script from auto-picking just press the Stop Selecting button.
 
 ### **[Sometimes it won't work with full screen, so run it as administrator and this currently only works on 1920x1080]**
 
